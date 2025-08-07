@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://dcf11epfewqk2"]
+
+[ext_resource type="Shader" path="res://addons/ComponentLibrary/components/flash/shaders/WhiteShader.gdshader" id="1_qgjak"]
+
+[resource]
+shader = ExtResource("1_qgjak")
